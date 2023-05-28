@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.form,
+.all-notes {
+  width: 800px;
+  margin: 10px auto;
+}
+
+.card {
+  min-height: 300px;
+}
